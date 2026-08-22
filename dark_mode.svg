@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     font-family="Consolas, 'Courier New', monospace"
+     width="985px" height="530px" font-size="10px">
+  <style>
+    .key { fill: #ffa657; }
+    .value { fill: #a5d6ff; }
+    .cc { fill: #616e7f; }
+    .portrait { fill: #f0c8a0; }
+    text, tspan { white-space: pre; }
+  </style>
+
+  <rect width="985" height="530" fill="#161b22" rx="15"/>
+
+  <!-- Michael's photo converted into terminal/ASCII portrait -->
+  <text x="18" y="34" class="portrait">
+    <tspan x="18" y="34">22223#@BSGHMGSSSGSSH3A2MHS@@@@@BB&amp;B@@@@@@#HHHHHMh2hHMh3Ass</tspan>
+    <tspan x="18" y="44">AriX3#&amp;9SSHHGSSGGGSH32hHH@@@@@&amp;&amp;BBBB@@@@@@GHHHMhh3hh35AXss</tspan>
+    <tspan x="18" y="54">r  ;5MS99SHHHGSGGGSH55hhB@@@&amp;BBBBB@@@@@@@@BMMMhMhM3352Xsss</tspan>
+    <tspan x="18" y="64">X. r225SBSGHHGSGGGGM525M@@@@@&amp;BBB9GHHHGB@@@GMMHHMM352Assss</tspan>
+    <tspan x="18" y="74">Gh5Mh22#BSHHHGGGHGGH325G@@@@#HMh2srrXA2S@@@#HHHMMh552AXXsr</tspan>
+    <tspan x="18" y="84">&amp;&amp;&amp;&amp;BHM99SHHHGGGHGGH5A2S@&amp;BHAsrrirssXXXM@@@9HMMMhh522AXsrr</tspan>
+    <tspan x="18" y="94">&amp;&amp;&amp;@@9GGSSHMHGGGHSSH5X2S@@MAAXsssssrsXX29@@9HHHMMh552AXrXs</tspan>
+    <tspan x="18" y="104">@@@@&amp;9SGSSMMGGSGGSSH2X2H@@G2Ariii;::r2h2h&amp;@9HMHMhh522AAXXX</tspan>
+    <tspan x="18" y="114">@@@&amp;9GGG#SMMGS#GHGGM2X2H@@H32si:,:i235332#@BGMHMh3552XAXrs</tspan>
+    <tspan x="18" y="124">&amp;&amp;&amp;&amp;#HHSGhhHGGSGHGGM2XAM@9G#MMMArrsA53AX2S&amp;HGMHHhh522AXXrr</tspan>
+    <tspan x="18" y="134">B&amp;&amp;&amp;9GM3hMhHGHSSHGGMAssh@9Hh3Hh3AsAA3h322#SrGHHMh3552AAXrs</tspan>
+    <tspan x="18" y="144">SB&amp;&amp;BS3X5GMHGHSSMGGMArAM&amp;9hhh5A3As2AsXXA5SHr#HMMh3552AXXrs</tspan>
+    <tspan x="18" y="154">HH#BBSh3HHMHGHGGMGSH2s2M5#M2AAX3AsAssXXAAHHA#MHMhh35AAAXsX</tspan>
+    <tspan x="18" y="164">MhS&amp;BGMGGMMHGHGGHGSG2sAM2#M2Xir3XrAs;;isXhMH#HMMh3525AXXXs</tspan>
+    <tspan x="18" y="174">HH#&amp;BGhHHMMGGHSGHHGHAsAHMShsi:s2r;rsrrirX2ASGHMMhh522AXXsr</tspan>
+    <tspan x="18" y="184">GS9B9HhHGMMGGMSGMHGHAs2MSh3sirAAiirsssrsX25SHHMhMh552XXXrr</tspan>
+    <tspan x="18" y="194">G#9B9HhSSHMHGH#GHHGHAs2M#35As2AXssXAXsssX3BSHHMMh3252AXXrr</tspan>
+    <tspan x="18" y="204">G#9BBHh##MhHGH#GHGSMAsAH#G32sAhh2XAAAXsXs39GHHMMM3552AXsrr</tspan>
+    <tspan x="18" y="214">HGSBBHh#ShhHHMSGHHGMXsAMSBG2AX2Xii;isXXXXh9GHHMhhh52AAXXsr</tspan>
+    <tspan x="18" y="224">M3h9BHhSShhHMMSGMHGhXs2M#B93552sXArsAAAAAh#HHHMhh55222AXsi</tspan>
+    <tspan x="18" y="234">M3M99M3SGh3Mh3SGHHH3XX5G9BBShM335sX25222539GHHMhHhMHGHH23A</tspan>
+    <tspan x="18" y="244">hHSB#M3SSh3M55GGHHH5XX3G#99BGHM3Ars2222525GSHHHHHM3hM2AXs5</tspan>
+    <tspan x="18" y="254">5H#B#M3SSh3h55GGHHH5ss5G#99BGHH5XAXX2552A2hGGHHHMh335XXAsX</tspan>
+    <tspan x="18" y="264">3H#B#MhSH53h22GHHHH5ss5G#999GHMh55522AXsX25hhGHHhh522AXrsr</tspan>
+    <tspan x="18" y="274">2G9BShhSM23M22GHMHH2ss3G#999Ghh2AAXXrrrrsA2Xi5HMMh33A2XXri</tspan>
+    <tspan x="18" y="284">XG99Gh3ShX3M2AGHMHH2ss3G#999H35Ariii;;;isXr;rX2hM335AXsrri</tspan>
+    <tspan x="18" y="294">2SB9Gh5G2r5MAAGGMHM2ss3G#B9G232Ari;;;;iii;;rssXA5h52AXsri;</tspan>
+    <tspan x="18" y="304">29&amp;B#h5HXi2MA2SGMHH2rs5G#H5Xs5Asr;;;;;;::;irsrXXXA222Xsri;</tspan>
+    <tspan x="18" y="314">iB@@Bh5GXi2hA2SGMGG5ir3h2XXArX2srii;;::;iiisrXXXAA22AXXirr</tspan>
+    <tspan x="18" y="324">M&amp;&amp;&amp;Bh2Mr;23sASGMGG5sX2XXXXXrrAssi;::;;iirsssXsXAXXA225X,:</tspan>
+    <tspan x="18" y="334">&amp;BB&amp;93Ah;,A3iXSHMGG32AXXXXXssissi;;;;;;irrrrsrsXrXAA2A22i:</tspan>
+    <tspan x="18" y="344">&amp;&amp;&amp;&amp;B3A3,.X5:rSHMGG5sssXXXXsr3X;ii;;;iiiiiirrrXrsXXAAA222s</tspan>
+    <tspan x="18" y="354">&amp;&amp;&amp;&amp;3:Xh..X2:iSHMGHsrssXsXsiM@s;;;;iiiiiiirrissrsXssXAsXA2</tspan>
+    <tspan x="18" y="364">@&amp;&amp;9; ih. X5:iSH3G3rrsXsssi5@S;i;iiiiiiiirrirsrrrsssXrsXsA</tspan>
+    <tspan x="18" y="374">@@@#, r3..X2:rSM3HAirsrsssrB@AiiiiiiiiiirriirrrrrrsXrrsssX</tspan>
+    <tspan x="18" y="384">@&amp;&amp;9i ;5 .rX.;SM3hsisrrssi5@#riiiiiiiiiiriirrrssrrsssrsssX</tspan>
+    <tspan x="18" y="394">&amp;&amp;B&amp;h  X  ss :SHh3irrrsssi3@3iiiiiiiiiirriirrrsXsrsrsrsssX</tspan>
+    <tspan x="18" y="404">BBBB9Xs5  2A :SHh5irrrrsrsiM2iiiiiiiiirr;iirrrrrrsrssrssss</tspan>
+    <tspan x="18" y="414">BBBB&amp;Br  ,2A :SGM2rrrrssri2Gh;iiiiiiiiriiiiirriiirrsrrssrs</tspan>
+    <tspan x="18" y="424">BBBB@H   ;As :SHh2rrrsssr5@@Hsir;i;iiii;iiiirriirrrsrisrrs</tspan>
+    <tspan x="18" y="434">BBBB&amp;#s  ;Xr :Gh32srsssrr&amp;@B#H53525Aii;iiiiiiriirirsiisisr</tspan>
+    <tspan x="18" y="444">##SS#9M  ,hX ;H552sssssrX@@9S5HMh2SX;;;iiiiiiiiiiisrirrrsr</tspan>
+    <tspan x="18" y="454">GHMHGSS2;Ahs iH22AsXXssiA@@H2A3hh3H;i;;iii;;;iii;rXriiirrr</tspan>
+    <tspan x="18" y="464">SSGGS#9BS,   iH2AAXAXssiA@@2:iiiiir;i;;i;;i;;;iiirXriiirrr</tspan>
+    <tspan x="18" y="474">99#####&amp;H    XHAAAs2srris@Gs;iiiii;ii;;;;;iii;iiirXiiiirrr</tspan>
+    <tspan x="18" y="484">B999##9B9A  rhG2XArAs;i;:X2;,riiiiiii;;;;;;;;;iiirAiiiirsr</tspan>
+    <tspan x="18" y="494">BBBBBB9#99SMMSS2XXsXArri;;s,,;;;:;i:;;;;;;;;;;iiisAiiirrrr</tspan>
+    <tspan x="18" y="504">BBBBBB9#9B&amp;&amp;&amp;&amp;HAXssXArsriiiiiii;:ii.;::;:;;;;;iir22iiiirss</tspan>
+  </text>
+
+  <!-- Your information -->
+  <text x="390" y="30" fill="#c9d1d9">
+    <tspan x="390" y="30">michael@rastegar</tspan> -———————————————————————————————-
+    <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11 64-bit</tspan>
+    <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">ASUS TUF Gaming Laptop</tspan>
+    <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Editor</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code</tspan>
+
+    <tspan x="390" y="120" class="key">Languages.Programming</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Python, JavaScript, C++</tspan>
+    <tspan x="390" y="140" class="key">Languages.Web</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">HTML, CSS</tspan>
+
+    <tspan x="390" y="170" class="key">Hobbies.Gaming</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">PC Gaming</tspan>
+    <tspan x="390" y="190" class="key">Hobbies.Anime</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Anime &amp; Manga</tspan>
+    <tspan x="390" y="210" class="key">Hobbies.Technology</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Programming</tspan>
+
+    <tspan x="390" y="240">- Contact</tspan> -———————————————————————————————-
+    <tspan x="390" y="260" class="key">GitHub</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Michaelrastegar</tspan>
+
+    <tspan x="390" y="290">- GitHub Stats</tspan> -———————————————————————————-
+    <tspan x="390" y="310" class="key">Repos</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">0</tspan>
+    <tspan x="390" y="330" class="key">Commits</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">0</tspan>
+    <tspan x="390" y="350" class="key">Followers</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">0</tspan>
+    <tspan x="390" y="370" class="key">Stars</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">0</tspan>
+  </text>
+</svg>
